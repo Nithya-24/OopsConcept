@@ -16,7 +16,7 @@ public class SetExample {
 	        Set.add("five");
 	        Set.add("five");  //ignore the duplicate entry in set
 	        
-	        // Set follows unordered way.
+	        // Set follows unordered way
 	        System.out.println(Set);
 	    }
 	}
